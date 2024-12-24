@@ -1,0 +1,19 @@
+.desenas {
+    display: flex;
+    gap: 5px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 14px;;
+}
+
+.desenas div {
+    background-color: #ccc;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}

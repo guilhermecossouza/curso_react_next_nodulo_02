@@ -1,0 +1,15 @@
+.display {
+    display: flex;
+    flex-direction: row;
+}
+
+.display div {
+    background-color: #ccc;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}

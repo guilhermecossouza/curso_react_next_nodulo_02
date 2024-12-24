@@ -1,0 +1,16 @@
+.resultados {
+   display: flex;
+   gap: 10px;
+   margin-bottom: 20px; 
+}
+
+.resultadosDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    background-color: #ccc;
+    border-radius: 50px;
+    font-size: 2em;;
+}

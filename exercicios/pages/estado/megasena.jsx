@@ -12,7 +12,7 @@ export default function megasena() {
     const [dezenasSorteadas, setDezenasSorteadas] = useState([]);
 
     useEffect(() => {
-        setDezenasSorteadas(geraJogos(dezenas));
+        setDezenasSorteadas(geraJogos(dezenas, dezenasSorteadas));
     }, [dezenas])
 
     return (

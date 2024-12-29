@@ -1,7 +1,7 @@
 
 import { useState, useEffect } from "react"
 import { geraJogos } from "../../funcoes/mega"
-import QuantidadeDezenas from "@/components/megaSena/QuantidadeDezenas"
+import QuantidadeDezenas from "../../components/megaSena/QuantidadeDezenas"
 import DesenasSorteadas from "../../components/megaSena/DesenasSorteadas"
 
 

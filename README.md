@@ -108,10 +108,3 @@
 
 <p>Você pode acessar o código-fonte completo no repositório. Sinta-se à vontade para explorar cada etapa dos desafios e projetos desenvolvidos!</p>
 
----
-
-<h2>📞 Contato</h2>
-
-<p>
-  Caso tenha dúvidas ou sugestões, entre em contato por meio do GitHub ou das redes sociais listadas no perfil.
-</p>
